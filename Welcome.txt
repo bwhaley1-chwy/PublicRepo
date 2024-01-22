@@ -1,1 +1,1 @@
-Welcome text file for public.
+Public repo for sharing with team and co-workers.
